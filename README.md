@@ -9,7 +9,7 @@ My name is Rifat and I am a Computer Science student!
 ```python
 class Rifat:
   def __init__(self):
-    self.age = 21
+    self.age = 22
     self.hobbies = ["Coding", "Table Tennis", "Hiking"]
     self.school = "University of Sheffield"
     self.email = "rifatrahman2003@gmail.com"
