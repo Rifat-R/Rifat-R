@@ -25,7 +25,7 @@ class Rifat:
 
 - ⏮️ Previous Experience:
   - Founder & Lead Developer @ Tickowt
-  - Software Engineer @ ZOO Digital Group PLC
+  - Software Engineer @ ZOO Digital Group
   - Freelance Software Developer @ Fiverr
 
 # 👻 Tech Stack
