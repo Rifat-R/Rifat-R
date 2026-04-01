@@ -7,7 +7,7 @@
 My name is Rifat and I am a Computer Science student!
 
 ```python
-class Ahmad:
+class Rifat:
   def __init__(self):
     self.age = 21
     self.hobbies = ["Coding", "Table Tennis", "Hiking"]
@@ -32,4 +32,4 @@ class Ahmad:
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,ts,java)](https://skillicons.dev)
