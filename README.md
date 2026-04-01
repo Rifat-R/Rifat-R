@@ -15,7 +15,7 @@ class Rifat:
     self.email = "rifatrahman2003@gmail.com"
 ```
 
-💻 I am passionate about building efficient, reliable backend systems and exploring machine learning. Currently a final-year Computer Science student at the University of Sheffield, focused on developing practical software and deepening my understanding of system design. I enjoy learning Rust, building GUIs, and continuously expanding my knowledge.
+💻 I am passionate about building efficient, reliable backend systems and ML infrastructure. Currently a final-year Computer Science student at the University of Sheffield, focused on developing practical software and deepening my understanding of system design. Currently learning Rust and building GUI applications.
 
 ### 💼 Credentials
 
