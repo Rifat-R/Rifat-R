@@ -21,7 +21,8 @@ class Rifat:
 
 # 📍 What Am I Doing?
 - 📋 Currently I am:
-  - Computer Science Student @ University of Sheffield
+  - Incoming Software Engineer Intern @ Roku
+  - Final Year Student @ University of Sheffield
 
 - ⏮️ Previous Experience:
   - Founder & Lead Developer @ Tickowt
